@@ -6,6 +6,8 @@ This repository documents my personal homelab and the technologies I use to gain
 
 ## Overview
 
+## Architecture
+
 ## Hardware
 
 ## Virtualization
@@ -17,7 +19,5 @@ This repository documents my personal homelab and the technologies I use to gain
 ## Security
 
 ## Monitoring
-
-## Architecture
 
 ## Future Plans
