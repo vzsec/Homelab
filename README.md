@@ -17,6 +17,12 @@ My personal homelab and portfolio project for hands-on experience with networkin
 
 This repository serves as the central hub for documenting my homelab and its ongoing development while helping me gain practical experience beyond the classroom in IT, networking, systems administration, and cybersecurity.
 
+### OPNsense Network Segmentation
+
+Deployment in progress. The homelab is being migrated behind OPNsense with dedicated VLANs for server and management traffic, managed switch trunking, and updated routing and firewall policies.
+
+Final documentation will be added once the migration and validation process is complete.
+
 ---
 
 ## Architecture
